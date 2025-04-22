@@ -23,9 +23,9 @@ setup(
     description='A library for configuration transformation between Python and Tcl',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='ConfigKit Contributors',
-    author_email='your.email@example.com',  # 请替换为你的邮箱
-    url='https://github.com/yourusername/configkit',  # 请替换为你的 GitHub 仓库
+    author='Anping Chen',
+    author_email='capjiaer@163.com',
+    url='https://github.com/capjiaer/configkit',
     packages=find_packages(),
     install_requires=[
         'pyyaml>=5.1',
